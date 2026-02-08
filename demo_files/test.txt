@@ -1,0 +1,11 @@
+Crypto Demo File
+================
+This text file demonstrates AES implementation failures.
+
+Test with password: "weakpassword123456"
+
+Encrypt this SAME file twice and compare .enc outputs:
+- Identical ciphertext = FIXED IV LEAK (poor impl)
+- Different ciphertext = good (random IV)
+
+SHA-256: 8f434346648f6d181eacef6d2cbba65be5751c40d82ede838397fe57d0d66b3b
