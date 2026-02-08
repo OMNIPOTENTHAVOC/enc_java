@@ -31,7 +31,7 @@
 ## 🚀 **One-Click Demo**
 
 ```
-📁 Double-click run.bat → GUI launches instantly (2s)
+📁 Double-click run.bat → GUI launches instantly
 ```
 
 ### **Fixed IV Leak (30 seconds)**
