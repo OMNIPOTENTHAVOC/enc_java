@@ -23,7 +23,7 @@
 |---------|--------|---------|
 | 🔐 **AES-128-CBC** | ✅ Live | File encryption/decryption |
 | ✅ **SHA-256** | ✅ Live | Post-decryption integrity |
-| 🎨 **Swing GUI** | ✅ Live | Professional interface |
+| 🎨 **Swing GUI** | ✅ Live | Modern interface |
 | 🧪 **Pitfall Demos** | 🚨 **CRITICAL** | Educational security fails |
 
 ***
@@ -107,17 +107,6 @@ enc_tool/
 
 ***
 
-## 🎓 **Academic Value**
-
-| **For** | **Why Perfect** |
-|---------|-----------------|
-| **Coursework** | Live, self-contained crypto failure demo |
-| **Portfolio** | Production GUI + documented exploits |
-| **Interviews** | "I built this to show AES pitfalls" |
-| **Papers** | Empirical proof of implementation failures |
-
-***
-
 ## 🔧 **Production Fixes** (Educational Reference)
 
 ```java
@@ -132,8 +121,6 @@ enc_tool/
 <div align="center">
 
 **🛡️ AES-128 is secure. Implementation breaks it completely.**
-
-<sub>Production-ready -  Zero dependencies -  Cross-platform -  Educational gold</sub>
 
 
 
