@@ -107,7 +107,7 @@ enc_tool/
 
 ***
 
-## 🔧 **Production Fixes** (Educational Reference)
+## 🔧 **Production Fixes**
 
 ```java
 ✅ Random IV: SecureRandom → prepend 16 bytes
